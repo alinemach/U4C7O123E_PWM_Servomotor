@@ -46,7 +46,10 @@ pico_enable_stdio_usb(U4C7O123E_PWM_Servomotor 1)
 
 # Add the standard library to the build
 target_link_libraries(U4C7O123E_PWM_Servomotor
-        pico_stdlib)
+        pico_stdlib
+        pico_time
+        hardware_irq
+        hardware_pwm)
 
 # Add the standard include files to the build
 target_include_directories(U4C7O123E_PWM_Servomotor PRIVATE
