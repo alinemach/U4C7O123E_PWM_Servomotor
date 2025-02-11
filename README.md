@@ -1,3 +1,5 @@
+## Controle de Servomotor com Raspberry Pi Pico
+
 Este projeto demonstra o controle de um servomotor utilizando o módulo PWM (Pulse Width Modulation) do microcontrolador RP2040, presente na placa Raspberry Pi Pico. O objetivo é simular o controle do ângulo de um servomotor padrão, utilizando a ferramenta Pico SDK e o simulador de eletrônica online Wokwi.
 
 #### 📝Descrição do Projeto
