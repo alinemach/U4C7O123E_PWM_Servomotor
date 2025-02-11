@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/U4C7O123E_PWM_Servomotor.hex'
+elf = 'build/U4C7O123E_PWM_Servomotor.elf'
