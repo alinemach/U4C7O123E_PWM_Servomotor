@@ -105,6 +105,7 @@ Com isso, o LED azul, ao receber esse sinal PWM, é ligado e desligado rapidamen
 Além disso, durante a movimentação suave do servomotor, o ciclo de trabalho do PWM é ajustado gradualmente, o que faz com que o brilho do LED também varie suavemente.
 
 #### 🎥 Vídeo de demonstração
+[Clique Aqui](https://youtu.be/c9VTGgHgeQE)
 
 #### 🤝 Contribuição
 
